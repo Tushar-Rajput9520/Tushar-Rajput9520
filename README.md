@@ -1,3 +1,5 @@
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # 🙋🏻‍♂️ Hey there, I'm Tushar Singh! 🐻‍❄️
 
 👨🏻‍💻 Full-Stack Developer | 👻 MERN Stack Enthusiast | 🕵🏻 DSA Explorer
@@ -15,6 +17,7 @@
 - ⚡ Fun Fact: I end comments with three dots... && prefer a **6-space tab** for clarity.
 
 ---
+![Hacker Laptop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlmMmI3ZmExNzFjZGMzM2U4NzVhNmVjNDViNjAzMmFkYzkwNjM2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IThjAlJnD9WNO/giphy.gif)
 
 ## 👨🏻‍💻 Tech Stack ✒️
 
@@ -65,16 +68,47 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-Rajput9520&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Rajput9520&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Rajput9520&theme=radical&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Rajput9520&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Dynamic Data Structures 📚 & Optimized Algorithms ⚙️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
 ---
 
 ## 🔗 Connect with Me
 
-📧 Email: tusharsinghkrj@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tushar-singh-068426257/)  
-💻 [LeetCode](https://leetcode.com/u/tushar_rajput120/)  
-🐦 [Twitter](https://twitter.com/TusharRajput9520)
+<p align="center">
+  <a href="mailto:tusharsinghkrj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-singh-068426257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/tushar_rajput120/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/tushar_rajput_._._/">
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
