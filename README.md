@@ -1,15 +1,23 @@
 <!-- Centered GIF -->
 <div align="center">
-  <img src="your-image-path/34efb5ad-dd2f-4a44-8435-665fb7d1105a.png" alt="Typing Animation" width="500"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF2aDh2aW02OTN6enMwZHFnZmFlb2ducXJ1eXdjaW1qcXllcWozMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iMT7TvPqlB2R7vIZ3i/giphy.gif" alt="Funny Coding GIF" width="300"/>
 </div>
 
-# 🙋🏻‍♂️ Hey there, I'm Tushar Singh! 🐻‍❄️
+<div align="center">
 
-👨🏻‍💻 Full-Stack Developer | 👻 MERN Stack Enthusiast | 🕵🏻 DSA Explorer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Typing+Code...)
+  <h1>🙋🏻‍♂️ Hey there, I'm Tushar Singh! 🐻‍❄️</h1>
+
+  <p>
+    👨🏻‍💻 Full-Stack Developer | 👻 MERN Stack Enthusiast | 🕵🏻 DSA Explorer
+  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Typing+Code..." alt="Typing SVG"/>
+
+</div>
 
 ---
+
 
 ## 💫 About Me
 
