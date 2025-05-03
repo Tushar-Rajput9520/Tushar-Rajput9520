@@ -1,4 +1,6 @@
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/223/223114.gif" alt="Programming Matrix" width="350"/>
+</div>
 
 # 🙋🏻‍♂️ Hey there, I'm Tushar Singh! 🐻‍❄️
 
@@ -16,8 +18,9 @@
 - 🔍 Passionate about problem-solving and writing maintainable code.
 - ⚡ Fun Fact: I end comments with three dots... && prefer a **6-space tab** for clarity.
 
----
-![Hacker Laptop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlmMmI3ZmExNzFjZGMzM2U4NzVhNmVjNDViNjAzMmFkYzkwNjM2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IThjAlJnD9WNO/giphy.gif)
+<div align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdscnF2bXFkNWQ5OW1pbjdmbnFsaHc5Y3MweXd6MndqbDhvZXpmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Eg02gyLrv9ZiUvemFZ/giphy.gif" alt="Laptop Coffee Vibe" width="250"/>
+</div>
 
 ## 👨🏻‍💻 Tech Stack ✒️
 
